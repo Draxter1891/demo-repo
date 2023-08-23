@@ -1,0 +1,5 @@
+{{#user}}
+Name: Rishabh Tripathi
+Skills: HTML, CSS, JS, Next.js
+Email:trishabh2001@gmail.com
+{{/user}}
